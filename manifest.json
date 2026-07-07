@@ -1,0 +1,12 @@
+{
+  "background_color": "#ffffff",
+  "description": "AZHILATOR — Experimental Beta v0.1 — مترجم فارسی/انگلیسی توسط امیر آژیده",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "AZHILATOR",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Azhi - مترجم",
+  "start_url": "/",
+  "theme_color": "#8b5cf6"
+}
